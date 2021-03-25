@@ -1,0 +1,13 @@
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\bin\Debug\netcoreapp3.1\20210324CAdg.exe
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\bin\Debug\netcoreapp3.1\20210324CAdg.deps.json
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\bin\Debug\netcoreapp3.1\20210324CAdg.runtimeconfig.json
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\bin\Debug\netcoreapp3.1\20210324CAdg.runtimeconfig.dev.json
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\bin\Debug\netcoreapp3.1\20210324CAdg.dll
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\bin\Debug\netcoreapp3.1\20210324CAdg.pdb
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\obj\Debug\netcoreapp3.1\20210324CAdg.csprojAssemblyReference.cache
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\obj\Debug\netcoreapp3.1\20210324CAdg.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\obj\Debug\netcoreapp3.1\20210324CAdg.AssemblyInfo.cs
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\obj\Debug\netcoreapp3.1\20210324CAdg.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\obj\Debug\netcoreapp3.1\20210324CAdg.dll
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\obj\Debug\netcoreapp3.1\20210324CAdg.pdb
+C:\Users\a\source\repos\20210324CAdg\20210324CAdg\obj\Debug\netcoreapp3.1\20210324CAdg.genruntimeconfig.cache
